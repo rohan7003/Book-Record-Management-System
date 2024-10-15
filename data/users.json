@@ -1,0 +1,112 @@
+{
+    "users":[
+        {
+          "id": 1,
+          "name": "John",
+          "surname": "Doe",
+          "email": "john.doe@example.com",
+          "issuedBookId": "b10",
+          "issuedDate": "2024-10-01",
+          "returnDate": "2024-10-15",
+          "subscriptionType": "standard",
+          "subscriptionDate": "2023-09-15"
+        },
+        {
+          "id": 2,
+          "name": "Jane",
+          "surname": "Smith",
+          "email": "jane.smith@example.com",
+          "issuedBookId": "b9",
+          "issuedDate": "2024-09-28",
+          "returnDate": "2024-10-12",
+          "subscriptionType": "premium",
+          "subscriptionDate": "2023-07-01"
+        },
+        {
+          "id": 3,
+          "name": "Michael",
+          "surname": "Brown",
+          "email": "michael.brown@example.com",
+          "issuedBookId": "b8",
+          "issuedDate": "2024-09-25",
+          "returnDate": "2024-10-10",
+          "subscriptionType": "basic",
+          "subscriptionDate": "2024-01-20"
+        },
+        {
+          "id": 4,
+          "name": "Emily",
+          "surname": "Johnson",
+          "email": "emily.johnson@example.com",
+          "issuedBookId": "b7",
+          "issuedDate": "2024-10-03",
+          "returnDate": "2024-10-17",
+          "subscriptionType": "standard",
+          "subscriptionDate": "2023-10-05"
+        },
+        {
+          "id": 5,
+          "name": "David",
+          "surname": "Williams",
+          "email": "david.williams@example.com",
+          "issuedBookId": "b6",
+          "issuedDate": "2024-10-02",
+          "returnDate": "2024-10-16",
+          "subscriptionType": "premium",
+          "subscriptionDate": "2023-12-11"
+        },
+        {
+          "id": 6,
+          "name": "Sophia",
+          "surname": "Jones",
+          "email": "sophia.jones@example.com",
+          "issuedBookId": "b5",
+          "issuedDate": "2024-09-30",
+          "returnDate": "2024-10-14",
+          "subscriptionType": "basic",
+          "subscriptionDate": "2024-03-03"
+        },
+        {
+          "id": 7,
+          "name": "James",
+          "surname": "Garcia",
+          "email": "james.garcia@example.com",
+          "issuedBookId": "b4",
+          "issuedDate": "2024-09-27",
+          "returnDate": "2024-10-11",
+          "subscriptionType": "standard",
+          "subscriptionDate": "2023-06-22"
+        },
+        {
+          "id": 8,
+          "name": "Mia",
+          "surname": "Martinez",
+          "email": "mia.martinez@example.com",
+          "subscriptionType": "premium",
+          "subscriptionDate": "2024-02-28"
+        },
+        {
+          "id": 9,
+          "name": "Oliver",
+          "surname": "Rodriguez",
+          "email": "oliver.rodriguez@example.com",
+          "issuedBookId": "b2",
+          "issuedDate": "2024-09-26",
+          "returnDate": "2024-10-10",
+          "subscriptionType": "basic",
+          "subscriptionDate": "2024-04-10"
+        },
+        {
+          "id": 10,
+          "name": "Isabella",
+          "surname": "Davis",
+          "email": "isabella.davis@example.com",
+          "issuedBookId": "b1",
+          "issuedDate": "2024-10-05",
+          "returnDate": "2024-10-19",
+          "subscriptionType": "standard",
+          "subscriptionDate": "2023-11-13"
+        }
+      ]
+      
+}
